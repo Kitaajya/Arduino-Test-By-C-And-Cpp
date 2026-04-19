@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestArduino": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
